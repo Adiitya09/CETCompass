@@ -1,0 +1,78 @@
+id,seat_type,seat_category,quota_scope,gender
+1,TFWS,TFWS,State Level,General
+2,LOPENS,OPEN,State Level,Ladies
+3,GOPENS,OPEN,State Level,General
+4,GNT3S,NT-3 (NT-D),State Level,General
+5,LNT2S,NT-2 (NT-C),State Level,Ladies
+6,GNT2S,NT-2 (NT-C),State Level,General
+7,GOBCS,OBC,State Level,General
+8,EWS,EWS,State Level,General
+9,LOBCS,OBC,State Level,Ladies
+10,LNT1S,NT-1 (NT-B),State Level,Ladies
+11,DEFOPENS,Defence,State Level,General
+12,DEFROBCS,Defence,State Level,General
+13,GOPENO,OPEN,Other than Home University,General
+14,LOPENO,OPEN,Other than Home University,Ladies
+15,GOPENH,OPEN,Home University,General
+16,GNT2O,NT-2 (NT-C),Other than Home University,General
+17,GOBCO,OBC,Other than Home University,General
+18,GNT1S,NT-1 (NT-B),State Level,General
+19,GVJS,VJ / DT,State Level,General
+20,DEFOBCS,Defence,State Level,General
+21,ORPHAN,Orphan,State Level,General
+22,LOPENH,OPEN,Home University,Ladies
+23,GNT3H,NT-3 (NT-D),Home University,General
+24,LNT3S,NT-3 (NT-D),State Level,Ladies
+25,GOBCH,OBC,Home University,General
+26,LNT1H,NT-1 (NT-B),Home University,Ladies
+27,LSCS,SC,State Level,Ladies
+28,LNT2H,NT-2 (NT-C),Home University,Ladies
+29,LNT3H,NT-3 (NT-D),Home University,Ladies
+30,GNT1H,NT-1 (NT-B),Home University,General
+31,LOBCO,OBC,Other than Home University,Ladies
+32,GNT1O,NT-1 (NT-B),Other than Home University,General
+33,LOBCH,OBC,Home University,Ladies
+34,AI,All India,All India,General
+35,GSCS,SC,State Level,General
+36,LVJS,VJ / DT,State Level,Ladies
+37,LVJH,VJ / DT,Home University,Ladies
+38,GNT3O,NT-3 (NT-D),Other than Home University,General
+39,PWDOPENS,PWD,State Level,General
+40,GNT2H,NT-2 (NT-C),Home University,General
+41,LNT2O,NT-2 (NT-C),Other than Home University,Ladies
+42,GVJO,VJ / DT,Other than Home University,General
+43,GSCO,SC,Other than Home University,General
+44,LSCO,SC,Other than Home University,Ladies
+45,DEFRNT2S,Defence,State Level,General
+46,MI,Minority,State Level,General
+47,GSCH,SC,Home University,General
+48,PWDOBCS,PWD,State Level,General
+49,MI-MH,Minority,Maharashtra,General
+50,GVJH,VJ / DT,Home University,General
+51,PWDSCS,PWD,State Level,General
+52,GSTS,ST,State Level,General
+53,DEFRNT3S,Defence,State Level,General
+54,PWDOPENH,PWD,Home University,General
+55,LSTS,ST,State Level,Ladies
+56,DEFRSCS,Defence,State Level,General
+57,PWDROBCS,PWD,State Level,General
+58,LSCH,SC,Home University,Ladies
+59,PWDOBCH,PWD,Home University,General
+60,GSTO,ST,Other than Home University,General
+61,LSTH,ST,Home University,Ladies
+62,DEFRNT1S,Defence,State Level,General
+63,DEFSCS,Defence,State Level,General
+64,GSTH,ST,Home University,General
+65,LSTO,ST,Other than Home University,Ladies
+66,PWDROBCH,PWD,Home University,General
+67,PWDRSCS,PWD,State Level,General
+68,PWDSCH,PWD,Home University,General
+69,PWDRSCH,PWD,Home University,General
+70,LVJO,VJ / DT,Other than Home University,Ladies
+71,MI-AI,Minority,All India,General
+72,LNT1O,NT-1 (NT-B),Other than Home University,Ladies
+73,PWDRNT1S,PWD,State Level,General
+74,LNT3O,NT-3 (NT-D),Other than Home University,Ladies
+75,PWDRVJS,PWD,State Level,General
+76,PWDRNT3S,PWD,State Level,General
+77,PWDRNT2S,PWD,State Level,General

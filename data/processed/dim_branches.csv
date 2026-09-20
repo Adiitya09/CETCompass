@@ -1,0 +1,95 @@
+id,branch_name,branch_slug,branch_category
+1,Computer Engineering,computer-engineering,Computer Science & IT
+2,Information Technology,information-technology,Computer Science & IT
+3,Electronics and Telecommunication Engg,electronics-and-telecommunication-engg,Electronics & Electrical
+4,Computer Science and Engineering (Artificial Intelligence and Machine Learning),computer-science-and-engineering-artificial-intelligence-and-machine-learning,Artificial Intelligence & Data
+5,Computer Science and Engineering (Data Science),computer-science-and-engineering-data-science,Artificial Intelligence & Data
+6,Computer Science and Engineering,computer-science-and-engineering,Computer Science & IT
+7,Electrical Engineering,electrical-engineering,Electronics & Electrical
+8,Chemical Engineering,chemical-engineering,Chemical & Biotech
+9,Electronics Engineering,electronics-engineering,Electronics & Electrical
+10,Instrumentation and Control Engineering,instrumentation-and-control-engineering,Electronics & Electrical
+11,Mechanical Engineering,mechanical-engineering,Mechanical & Automation
+12,Artificial Intelligence (AI) and Data Science,artificial-intelligence-ai-and-data-science,Artificial Intelligence & Data
+13,Computer Science and Engineering (Artificial Intelligence),computer-science-and-engineering-artificial-intelligence,Artificial Intelligence & Data
+14,Polymer Engineering and Technology,polymer-engineering-and-technology,Other Engineering Disciplines
+15,Pharmaceuticals Chemistry and Technology,pharmaceuticals-chemistry-and-technology,Other Engineering Disciplines
+16,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),computer-science-and-engineering-internet-of-things-and-cyber-security-including-block-chain-technology,Artificial Intelligence & Data
+17,Civil Engineering,civil-engineering,Civil & Environmental
+18,Food Engineering and Technology,food-engineering-and-technology,Chemical & Biotech
+19,Artificial Intelligence and Data Science,artificial-intelligence-and-data-science,Artificial Intelligence & Data
+20,Artificial Intelligence and Machine Learning,artificial-intelligence-and-machine-learning,Artificial Intelligence & Data
+21,Computer Engineering (Regional Language),computer-engineering-regional-language,Computer Science & IT
+22,Manufacturing Science and Engineering,manufacturing-science-and-engineering,Other Engineering Disciplines
+23,"Oil, Oleochemicals and Surfactants Technology",oil-oleochemicals-and-surfactants-technology,Chemical & Biotech
+24,Surface Coating Technology,surface-coating-technology,Other Engineering Disciplines
+25,Computer Science and Engineering (Cyber Security),computer-science-and-engineering-cyber-security,Artificial Intelligence & Data
+26,Production Engineering[Sandwich],production-engineeringsandwich,Mechanical & Automation
+27,Computer Science and Business Systems,computer-science-and-business-systems,Computer Science & IT
+28,Metallurgy and Material Technology,metallurgy-and-material-technology,Other Engineering Disciplines
+29,Computer Science and Information Technology,computer-science-and-information-technology,Computer Science & IT
+30,Electronics and Communication Engineering,electronics-and-communication-engineering,Electronics & Electrical
+31,Computer Science and Design,computer-science-and-design,Computer Science & IT
+32,Food Technology,food-technology,Chemical & Biotech
+33,Electronics and Computer Science,electronics-and-computer-science,Computer Science & IT
+34,Fibres and Textile Processing Technology,fibres-and-textile-processing-technology,Chemical & Biotech
+35,Dyestuff Technology,dyestuff-technology,Other Engineering Disciplines
+36,Internet of Things (IoT),internet-of-things-iot,Artificial Intelligence & Data
+37,Computer Technology,computer-technology,Computer Science & IT
+38,Textile Technology,textile-technology,Chemical & Biotech
+39,Robotics and Automation,robotics-and-automation,Mechanical & Automation
+40,Bio Medical Engineering,bio-medical-engineering,Other Engineering Disciplines
+41,Computer Science and Technology,computer-science-and-technology,Computer Science & IT
+42,Electronics and Computer Engineering,electronics-and-computer-engineering,Computer Science & IT
+43,Computer Science and Engineering (IoT),computer-science-and-engineering-iot,Computer Science & IT
+44,Automation and Robotics,automation-and-robotics,Mechanical & Automation
+45,Petro Chemical Engineering,petro-chemical-engineering,Chemical & Biotech
+46,Petro Chemical Technology,petro-chemical-technology,Chemical & Biotech
+47,Cyber Security,cyber-security,Artificial Intelligence & Data
+48,Data Science,data-science,Artificial Intelligence & Data
+49,Computer Science and Engineering (Artificial Intelligence and Data Science),computer-science-and-engineering-artificial-intelligence-and-data-science,Artificial Intelligence & Data
+50,Instrumentation Engineering,instrumentation-engineering,Electronics & Electrical
+51,Paints Technology,paints-technology,Other Engineering Disciplines
+52,Industrial IoT,industrial-iot,Other Engineering Disciplines
+53,Artificial Intelligence,artificial-intelligence,Artificial Intelligence & Data
+54,Mechatronics Engineering,mechatronics-engineering,Mechanical & Automation
+55,Man Made Textile Technology,man-made-textile-technology,Chemical & Biotech
+56,Textile Plant Engineering,textile-plant-engineering,Chemical & Biotech
+57,Aeronautical Engineering,aeronautical-engineering,Other Engineering Disciplines
+58,Electrical Engg[Electronics and Power],electrical-enggelectronics-and-power,Electronics & Electrical
+59,Oil Technology,oil-technology,Other Engineering Disciplines
+60,Fashion Technology,fashion-technology,Other Engineering Disciplines
+61,Bio Technology,bio-technology,Chemical & Biotech
+62,Textile Engineering / Technology,textile-engineering-technology,Chemical & Biotech
+63,Agricultural Engineering,agricultural-engineering,Other Engineering Disciplines
+64,Civil and Environmental Engineering,civil-and-environmental-engineering,Civil & Environmental
+65,"Artificial Intelligence and Data Science University, Jalgaon",artificial-intelligence-and-data-science-university-jalgaon,Artificial Intelligence & Data
+66,Robotics and Artificial Intelligence,robotics-and-artificial-intelligence,Artificial Intelligence & Data
+67,Mining Engineering,mining-engineering,Other Engineering Disciplines
+68,Pharmaceutical and Fine Chemical Technology,pharmaceutical-and-fine-chemical-technology,Chemical & Biotech
+69,Plastic and Polymer Technology,plastic-and-polymer-technology,Chemical & Biotech
+70,Printing Technology,printing-technology,Other Engineering Disciplines
+71,Mechanical & Automation Engineering,mechanical--automation-engineering,Mechanical & Automation
+72,Textile Chemistry,textile-chemistry,Chemical & Biotech
+73,Paper and Pulp Technology,paper-and-pulp-technology,Other Engineering Disciplines
+74,Electrical Engg [Electrical and Power],electrical-engg-electrical-and-power,Electronics & Electrical
+75,Oil and Paints Technology,oil-and-paints-technology,Other Engineering Disciplines
+76,Food Technology And Management,food-technology-and-management,Chemical & Biotech
+77,Mechanical and Mechatronics Engineering (Additive Manufacturing),mechanical-and-mechatronics-engineering-additive-manufacturing,Mechanical & Automation
+78,Automobile Engineering,automobile-engineering,Mechanical & Automation
+79,Mechanical Engineering[Sandwich],mechanical-engineeringsandwich,Mechanical & Automation
+80,"Computer Science and Engineering University, Jalgaon",computer-science-and-engineering-university-jalgaon,Computer Science & IT
+81,Data Engineering,data-engineering,Other Engineering Disciplines
+82,Production Engineering,production-engineering,Mechanical & Automation
+83,Electrical and ComputerEngineering,electrical-and-computerengineering,Computer Science & IT
+84,Agriculture Engineering,agriculture-engineering,Other Engineering Disciplines
+85,Electronics Engineering (VLSI Design and Technology),electronics-engineering-vlsi-design-and-technology,Electronics & Electrical
+86,"Electronics and Telecommunication Engg University, Jalgaon",electronics-and-telecommunication-engg-university-jalgaon,Electronics & Electrical
+87,Plastic and Polymer Engineering,plastic-and-polymer-engineering,Chemical & Biotech
+88,Structural Engineering,structural-engineering,Civil & Environmental
+89,Plastic Technology,plastic-technology,Chemical & Biotech
+90,Robotics,robotics,Mechanical & Automation
+91,Electrical and Electronics Engineering,electrical-and-electronics-engineering,Electronics & Electrical
+92,Civil and infrastructure Engineering,civil-and-infrastructure-engineering,Civil & Environmental
+93,Automotive Technology,automotive-technology,Other Engineering Disciplines
+94,Safety and Fire Engineering,safety-and-fire-engineering,Other Engineering Disciplines

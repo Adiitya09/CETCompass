@@ -1,0 +1,327 @@
+id,college_name,college_slug,district,city,region
+1,"Veermata Jijabai Technological Institute (VJTI), Matunga, Mumbai",veermata-jijabai-technological-institute-vjti-matunga-mumbai,Mumbai,VJTI,Mumbai Region
+2,COEP Technological University,coep-technological-university,Pune,COEP,Pune Region
+3,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology, Andheri, Mumbai",bhartiya-vidya-bhavans-sardar-patel-institute-of-technology-andheri-mumbai,Mumbai,Andheri,Mumbai Region
+4,"Pune Institute of Computer Technology, Dhankavdi, Pune",pune-institute-of-computer-technology-dhankavdi-pune,Pune,Pune,Pune Region
+5,"Walchand College of Engineering, Sangli",walchand-college-of-engineering-sangli,Sangli,Walchand,Pune Region
+6,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle, Mumbai",shri-vile-parle-kelvani-mandals-dwarkadas-j-sanghvi-college-of-engineering-vile-parle-mumbai,Mumbai,Vile Parle,Mumbai Region
+7,"Institute of Chemical Technology, Matunga, Mumbai",institute-of-chemical-technology-matunga-mumbai,Mumbai,Matunga,Mumbai Region
+8,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",bansilal-ramnath-agarawal-charitable-trusts-vishwakarma-institute-of-technology-bibwewadi-pune,Pune,Bibwewadi,Pune Region
+9,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",pimpri-chinchwad-education-trust-pimpri-chinchwad-college-of-engineering-pune,Pune,Pimpri,Pune Region
+10,"MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",mkssss-cummins-college-of-engineering-for-women-karvenagar-pune,Pune,Karvenagar,Pune Region
+11,"Xavier Institute Of Engineering C/O Xavier Technical Institute, Mahim, Mumbai",xavier-institute-of-engineering-c-o-xavier-technical-institute-mahim-mumbai,Mumbai,Mahim,Mumbai Region
+12,"Shri Ramdeobaba College of Engineering and Management, Nagpur",shri-ramdeobaba-college-of-engineering-and-management-nagpur,Nagpur,Ramdeobaba,Vidarbha
+13,"Thadomal Shahani Engineering College, Bandra, Mumbai",thadomal-shahani-engineering-college-bandra-mumbai,Mumbai,Thadomal,Mumbai Region
+14,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",b-r-a-c-ts-vishwakarma-institute-of-information-technology-kondhwa-bk-pune,Pune,Kondhwa,Pune Region
+15,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",vivekanand-education-societys-institute-of-technology-chembur-mumbai,Mumbai,Chembur,Mumbai Region
+16,K J Somaiya Institute of Technology,k-j-somaiya-institute-of-technology,Mumbai,Sion,Mumbai Region
+17,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",dr-d-y-patil-pratishthans-d-y-patil-college-of-engineering-akurdi-pune,Pune,Akurdi,Pune Region
+18,"Government College of Engineering, Aurangabad",government-college-of-engineering-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+19,"Government College of Engineering, Nagpur",government-college-of-engineering-nagpur,Nagpur,Nagpur,Vidarbha
+20,"Thakur College of Engineering and Technology, Kandivali, Mumbai",thakur-college-of-engineering-and-technology-kandivali-mumbai,Mumbai,Kandivali,Mumbai Region
+21,"Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate (Wani) Institute of Management, Pune",pune-vidyarthi-grihas-college-of-engineering-and-technology-and-g-k-pate-wani-institute-of-management-pune,Pune,Pune,Pune Region
+22,"Vidyalankar Institute of Technology, Wadala, Mumbai",vidyalankar-institute-of-technology-wadala-mumbai,Mumbai,Wadala,Mumbai Region
+23,"Government College of Engineering, Karad",government-college-of-engineering-karad,Satara,Karad,Pune Region
+24,"Jaywant Shikshan Prasarak Mandal's, Rajarshi Shahu College of Engineering, Tathawade, Pune",jaywant-shikshan-prasarak-mandals-rajarshi-shahu-college-of-engineering-tathawade-pune,Pune,Tathawade,Pune Region
+25,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",pimpri-chinchwad-education-trusts-pimpri-chinchwad-college-of-engineering-and-research-ravet,Pune,Pimpri,Pune Region
+26,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+27,"Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai",fr-conceicao-rodrigues-college-of-engineering-bandra-mumbai,Mumbai,Bandra,Mumbai Region
+28,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded,Nanded,Nanded,Chhatrapati Sambhajinagar (Marathwada)
+29,"MIT Academy of Engineering, Alandi, Pune",mit-academy-of-engineering-alandi-pune,Pune,Alandi,Pune Region
+30,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",all-india-shri-shivaji-memorial-societys-college-of-engineering-pune,Pune,Pune,Pune Region
+31,"Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",kolhapur-institute-of-technologys-college-of-engineering-autonomous-kolhapur,Kolhapur,Kolhapur,Pune Region
+32,"Government College of Engineering, Amravati",government-college-of-engineering-amravati,Amravati,Amravati,Vidarbha
+33,"All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",all-india-shri-shivaji-memorial-societys-institute-of-information-technology-pune,Pune,Pune,Pune Region
+34,"International Institute of Information Technology (IÃ‚Â²IT), Pune.",international-institute-of-information-technology-iit-pune,Pune,Pune,Pune Region
+35,"St. Francis Institute of Technology, Borivali, Mumbai",st-francis-institute-of-technology-borivali-mumbai,Mumbai,Borivali,Mumbai Region
+36,"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",dr-d-y-patil-unitech-societys-dr-d-y-patil-institute-of-technology-pimpri-pune,Pune,Pimpri,Pune Region
+37,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",k-e-societys-rajarambapu-institute-of-technology-walwa-sangli,Sangli,Sangli,Pune Region
+38,"Government College of Engineering & Research, Avasari Khurd",government-college-of-engineering--research-avasari-khurd,Pune,Avasari,Pune Region
+39,"Don Bosco Institute of Technology, Mumbai",don-bosco-institute-of-technology-mumbai,Mumbai,Mumbai,Mumbai Region
+40,"Sardar Patel College of Engineering, Andheri",sardar-patel-college-of-engineering-andheri,Mumbai,Sardar Patel College of Engineering,Mumbai Region
+41,"Progressive Education Society's Modern College of Engineering, Pune",progressive-education-societys-modern-college-of-engineering-pune,Pune,Pune,Pune Region
+42,"Bharati Vidyapeeth's College of Engineering, Lavale, Pune",bharati-vidyapeeths-college-of-engineering-lavale-pune,Pune,Lavale,Pune Region
+43,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai",s-i-e-s-graduate-school-of-technology-nerul-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+44,"K. K. Wagh Institute of Engineering Education and Research, Nashik",k-k-wagh-institute-of-engineering-education-and-research-nashik,Nashik,Nashik,Nashik / North Maharashtra
+45,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",dr-d-y-patil-institute-of-engineering-management--reseach-akurdi-pune,Pune,Akurdi,Pune Region
+46,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",manjara-charitable-trusts-rajiv-gandhi-institute-of-technology-mumbai,Mumbai,Mumbai,Mumbai Region
+47,"Shri Sant Gajanan Maharaj College of Engineering, Shegaon",shri-sant-gajanan-maharaj-college-of-engineering-shegaon,Buldhana,Shegaon,Vidarbha
+48,"Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",yeshwantrao-chavan-college-of-engineering-wanadongri-nagpur,Nagpur,Wanadongri,Vidarbha
+49,"Sinhgad College of Engineering, Vadgaon (BK), Pune",sinhgad-college-of-engineering-vadgaon-bk-pune,Pune,Vadgaon,Pune Region
+50,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",bharati-vidyapeeth-college-of-engineering-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+51,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",dattajirao-kadam-technical-education-societys-textile--engineering-institute-ichalkaranji,Kolhapur,Ichalkaranji,Pune Region
+52,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",amrutvahini-sheti--shikshan-vikas-sansthas-amrutvahini-college-of-engineering-sangamner,Ahmednagar,Sangamner,Nashik / North Maharashtra
+53,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",marathwada-mitra-mandals-college-of-engineering-karvenagar-pune,Pune,Karvenagar,Pune Region
+54,"Mahatma Education Society's Pillai College of Engineering, New Panvel",mahatma-education-societys-pillai-college-of-engineering-new-panvel,Raigad,New Panvel,Mumbai Region
+55,"D.Y. Patil College of Engineering and Technology, Kolhapur",d-y-patil-college-of-engineering-and-technology-kolhapur,Kolhapur,Kolhapur,Pune Region
+56,"Rizvi Education Society's Rizvi College of Engineering, Bandra, Mumbai",rizvi-education-societys-rizvi-college-of-engineering-bandra-mumbai,Mumbai,Bandra,Mumbai Region
+57,"Terna Engineering College, Nerul, Navi Mumbai",terna-engineering-college-nerul-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+58,"Modern Education Society's College of Engineering, Pune",modern-education-societys-college-of-engineering-pune,Pune,Pune,Pune Region
+59,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",vidya-pratishthans-kamalnayan-bajaj-institute-of-engineering--technology-baramati-dist-pune,Pune,Baramati,Pune Region
+60,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",bharati-vidyapeeths-college-of-engineering-for-women-katraj-dhankawadi-pune,Pune,Pune,Pune Region
+61,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",sanjivani-rural-education-societys-sanjivani-college-of-engineering-kopargaon,Ahmednagar,Kopargaon,Nashik / North Maharashtra
+62,"Laxminarayan Institute of Technology, Nagpur",laxminarayan-institute-of-technology-nagpur,Nagpur,Nagpur,Vidarbha
+63,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",n-y-s-s-s-datta-meghe-college-of-engineering-airoli-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+64,"JSPM Narhe Technical Campus, Pune.",jspm-narhe-technical-campus-pune,Pune,Narhe,Pune Region
+65,"Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai",mahavir-education-trusts-shah--anchor-kutchhi-engineering-college-mumbai,Mumbai,Mumbai,Mumbai Region
+66,"Vidyavardhini's College of Engineering and Technology, Vasai",vidyavardhinis-college-of-engineering-and-technology-vasai,Palghar,Vasai,Mumbai Region
+67,"Atharva College of Engineering, Malad (West), Mumbai",atharva-college-of-engineering-malad-west-mumbai,Mumbai,Mumbai,Mumbai Region
+68,"Maratha Vidya Prasarak Samaj's Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik",maratha-vidya-prasarak-samajs-karmaveer-adv-baburao-ganpatrao-thakare-college-of-engineering-nashik,Nashik,Nashik,Nashik / North Maharashtra
+69,"S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur",s-k-n-sinhgad-college-of-engineering-korti-tal-pandharpur-dist-solapur,Solapur,Pandharpur,Pune Region
+70,"Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai",anjuman-i-islams-m-h-saboo-siddik-college-of-engineering-byculla-mumbai,Mumbai,Byculla,Mumbai Region
+71,"Walchand Institute of Technology, Solapur",walchand-institute-of-technology-solapur,Solapur,Solapur,Pune Region
+72,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering & Technology, Talegaon station, Pune",nutan-maharashtra-vidya-prasarak-mandal-nutan-maharashtra-institute-of-engineering--technology-talegaon-station-pune,Pune,Pune,Pune Region
+73,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering, Vadgaon, Pune",sinhgad-technical-education-societys-smt-kashibai-navale-college-of-engineering-vadgaon-pune,Pune,Vadgaon,Pune Region
+74,"JSPM'S Jaywantrao Sawant College of Engineering, Pune",jspms-jaywantrao-sawant-college-of-engineering-pune,Pune,Pune,Pune Region
+75,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",usha-mittal-institute-of-technology-sndt-womens-university-mumbai,Mumbai,Mumbai,Mumbai Region
+76,"Shree Tuljabhavani College of Engineering, Tuljapur",shree-tuljabhavani-college-of-engineering-tuljapur,Osmanabad (Dharashiv),Tuljapur,Chhatrapati Sambhajinagar (Marathwada)
+77,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",g-h-raisoni-college-of-engineering--management-wagholi-pune,Pune,Wagholi,Pune Region
+78,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",lokmanya-tilak-college-of-engineering-kopar-khairane-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+79,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",annasaheb-dange-college-of-engineering-and-technology-ashta-sangli,Sangli,Ashta,Pune Region
+80,"Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",shri-vithal-education-and-research-institutes-college-of-engineering-pandharpur,Solapur,Pandharpur,Pune Region
+81,"Prof. Ram Meghe Institute of Technology & Research, Amravati",prof-ram-meghe-institute-of-technology--research-amravati,Amravati,Amravati,Vidarbha
+82,"Bajaj Institute of Technology, Wardha",bajaj-institute-of-technology-wardha,Wardha,Wardha,Vidarbha
+83,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",tatyasaheb-kore-institute-of-engineering-and-technology-warananagar,Kolhapur,Warananagar,Pune Region
+84,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",jspms-imperial-college-of-engineering-and-research-wagholi-pune,Pune,Wagholi,Pune Region
+85,"Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",ankush-shikshan-sansthas-g-h-raisoni-college-of-engineering-nagpur,Nagpur,Nagpur,Vidarbha
+86,"Deogiri Institute of Engineering and Management Studies, Aurangabad",deogiri-institute-of-engineering-and-management-studies-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+87,"Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal",hindi-seva-mandals-shri-sant-gadgebaba-college-of-engineering--technology-bhusawal,Jalgaon,Bhusawal,Nashik / North Maharashtra
+88,"R. C. Patel Institute of Technology, Shirpur",r-c-patel-institute-of-technology-shirpur,Dhule,Shirpur,Nashik / North Maharashtra
+89,"Vasantdada Patil Pratishthan's College Of Engineering and Visual Arts, Sion, Mumbai",vasantdada-patil-pratishthans-college-of-engineering-and-visual-arts-sion-mumbai,Mumbai,Sion,Mumbai Region
+90,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",shramsadhana-bombay-trust-college-of-engineering--technology-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+91,Ajeenkya DY Patil School of Engineering,ajeenkya-dy-patil-school-of-engineering,Pune,Lohegaon,Pune Region
+92,"Shri Vile Parle Kelavani Mandal's Institute of Technology, Dhule",shri-vile-parle-kelavani-mandals-institute-of-technology-dhule,Mumbai,Vile Parle,Mumbai Region
+93,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",met-bhujbal-knowledge-city-met-leagues-engineering-college-adgaon-nashik,Nashik,Nashik,Nashik / North Maharashtra
+94,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",shree-l-r-tiwari-college-of-engineering-mira-road-mumbai,Mumbai,Mumbai,Mumbai Region
+95,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",hope-foundation-and-research-centers-finolex-academy-of-management-and-technology-ratnagiri,Ratnagiri,Ratnagiri,Mumbai Region
+96,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune",genba-sopanrao-moze-trust-parvatibai-genba-moze-college-of-engineering-wagholi-pune,Pune,Wagholi,Pune Region
+97,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering, Kharghar, Navi Mumbai",jawahar-education-societys-annasaheb-chudaman-patil-college-of-engineering-kharghar-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+98,"Government College of Engineering, Jalgaon",government-college-of-engineering-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+99,"A. P. Shah Institute of Technology, Thane",a-p-shah-institute-of-technology-thane,Thane,Thane,Mumbai Region
+100,"NBN Sinhgad Technical Institutes Campus, Pune",nbn-sinhgad-technical-institutes-campus-pune,Pune,Pune,Pune Region
+101,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",g-s-mandals-maharashtra-institute-of-technology-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+102,"Pune District Education Association's College of Engineering, Pune",pune-district-education-associations-college-of-engineering-pune,Pune,Pune,Pune Region
+103,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",sipna-shikshan-prasarak-mandal-college-of-engineering--technology-amravati,Amravati,Amravati,Vidarbha
+104,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",jayawant-shikshan-prasarak-mandal-bhivarabai-sawant-institute-of-technology--research-wagholi,Pune,Wagholi,Pune Region
+105,"Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",shivnagar-vidya-prasarak-mandals-college-of-engineering-malegaon-baramati,Pune,Baramati,Pune Region
+106,"Sinhagad Institute of Technology, Lonavala",sinhagad-institute-of-technology-lonavala,Pune,Lonavala,Pune Region
+107,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur",st-vincent-pallotti-college-of-engineering--technology-nagpur,Nagpur,Nagpur,Vidarbha
+108,"Indira College of Engineering & Management, Pune",indira-college-of-engineering--management-pune,Pune,Pune,Pune Region
+109,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",dr-ashok-gujar-technical-institutes-dr-daulatrao-aher-college-of-engineering-karad,Satara,Karad,Pune Region
+110,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",tssmss-pd-vasantdada-patil-institute-of-technology-bavdhan-pune,Pune,Bavdhan,Pune Region
+111,"Government College of Engineering, Chandrapur",government-college-of-engineering-chandrapur,Chandrapur,Chandrapur,Vidarbha
+112,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",pravara-rural-college-of-engineering-loni-pravaranagar-ahmednagar,Ahmednagar,Loni,Nashik / North Maharashtra
+113,"M.S. Bidve Engineering College, Latur",m-s-bidve-engineering-college-latur,Latur,Latur,Chhatrapati Sambhajinagar (Marathwada)
+114,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",sinhgad-technical-education-society-sinhgad-institute-of-technology-and-science-narhe-ambegaon,Pune,Narhe,Pune Region
+115,"Government College of Engineering, Yavatmal",government-college-of-engineering-yavatmal,Yavatmal,Yavatmal,Vidarbha
+116,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",rayat-shikshan-sansthas-karmaveer-bhaurao-patil-college-of-engineering-satara,Satara,Satara,Pune Region
+117,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",sinhgad-academy-of-engineering-kondhwa-bk-kondhwa-saswad-road-pune,Pune,Kondhwa,Pune Region
+118,"Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune",marathwada-mitra-mandals-institute-of-technology-lohgaon-pune,Pune,Pune,Pune Region
+119,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",guru-gobind-singh-college-of-engineering--research-centre-nashik,Nashik,Nashik,Nashik / North Maharashtra
+120,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",smt-indira-gandhi-college-of-engineering-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+121,"K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli",k-j-s-educational-institutes-k-j-college-of-engineering--management-research-pisoli,Pune,Pisoli,Pune Region
+122,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",holy-wood-academys-sanjeevan-engineering-and-technology-institute-panhala,Kolhapur,Panhala,Pune Region
+123,"Saraswati Education Society's Saraswati College of Engineering, Kharghar Navi Mumbai",saraswati-education-societys-saraswati-college-of-engineering-kharghar-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+124,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",zeal-education-societys-zeal-college-of-engineering--reserch-narhe-pune,Pune,Narhe,Pune Region
+125,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",aldel-education-trusts-st-john-college-of-engineering--management-vevoor-palghar,Palghar,Palghar,Mumbai Region
+126,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",late-shri-vishnu-waman-thakur-charitable-trust-viva-institute-of-technology-shirgaon,Palghar,Virar,Mumbai Region
+127,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",mahatma-gandhi-missions-college-of-engineering-hingoli-rd-nanded,Nanded,Nanded,Chhatrapati Sambhajinagar (Marathwada)
+128,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",tssms-bhivarabai-sawant-college-of-engineering-and-research-narhe-pune,Pune,Narhe,Pune Region
+129,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",dr-vithalrao-vikhe-patil-college-of-engineering-ahmednagar,Ahmednagar,Ahmednagar,Nashik / North Maharashtra
+130,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",sandip-foundation-sandip-institute-of-technology-and-research-centre-mahiravani-nashik,Nashik,Nashik,Nashik / North Maharashtra
+131,ISBM College Of Engineering Pune,isbm-college-of-engineering-pune,Pune,Pune,Pune Region
+132,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",lokmanya-tilak-jankalyan-shikshan-sanstha-priyadarshani-college-of-engineering-nagpur,Nagpur,Nagpur,Vidarbha
+133,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",rasiklal-m-dhariwal-sinhgad-technical-institutes-campus-warje-pune,Pune,Pune,Pune Region
+134,"Dr. Babasaheb Ambedkar Technological University, Lonere",dr-babasaheb-ambedkar-technological-university-lonere,Raigad,Lonere,Mumbai Region
+135,"Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi",shree-gajanan-maharaj-shikshan-prasarak-mandal-sharadchandra-pawar-college-of-engineering-dumbarwadi,Pune,Dumbarwadi,Pune Region
+136,"N. B. Navale Sinhgad College of Engineering, Kegaon, solapur",n-b-navale-sinhgad-college-of-engineering-kegaon-solapur,Solapur,solapur,Pune Region
+137,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",shetkari-shikshan-mandals-pad-vasantraodada-patil-institute-of-technology-budhgaon-sangli,Sangli,Sangli,Pune Region
+138,"Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",anjuman-i-islams-kalsekar-technical-campus-panvel,Raigad,Panvel,Mumbai Region
+139,"SKN Sinhgad Institute of Technology & Science, Kusgaon (BK), Pune.",skn-sinhgad-institute-of-technology--science-kusgaon-bk-pune,Pune,Pune,Pune Region
+140,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli",dhole-patil-education-society-dhole-patil-college-of-engineering-wagholi-tal-haveli,Pune,Wagholi,Pune Region
+141,"Shivajirao S. Jondhale College of Engineering, Dombivali, Mumbai",shivajirao-s-jondhale-college-of-engineering-dombivali-mumbai,Mumbai,Mumbai,Mumbai Region
+142,"Sharad Institute of Technology College of Engineering, Yadrav (Ichalkaranji)",sharad-institute-of-technology-college-of-engineering-yadrav-ichalkaranji,Kolhapur,Ichalkaranji,Pune Region
+143,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",excelsior-education-societys-k-c-college-of-engineering-and-management-studies-and-research-kopri-thane-e,Thane,Thane,Mumbai Region
+144,"Sant Gadge Baba Amravati University, Amravati",sant-gadge-baba-amravati-university-amravati,Amravati,Amravati,Vidarbha
+145,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",lokmanya-tilak-jankalyan-shikshan-sastha-priyadarshini-j-l-college-of-engineering-nagpur,Nagpur,Nagpur,Vidarbha
+146,"Department of Technology, Shivaji University, Kolhapur",department-of-technology-shivaji-university-kolhapur,Kolhapur,Kolhapur,Pune Region
+147,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",k-j-s-educational-institut-trinity-college-of-engineering-and-research-pisoli-haveli,Pune,Pisoli,Pune Region
+148,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",mahatma-education-societys-pillai-hoc-college-of-engineering--technology-tal-khalapur-dist-raigad,Raigad,Khalapur,Mumbai Region
+149,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune",nutan-college-of-engineering-and-research-talegaon-dabhade-tal-maval-pune,Pune,Pune,Pune Region
+150,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution (Integrated Campus), Amravati",p-r-pote-patil-education--welfare-trusts-group-of-institution-integrated-campus-amravati,Amravati,Amravati,Vidarbha
+151,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",gokhale-education-societys-r-h-sapat-college-of-engineering-management-studies-and-research-nashik,Nashik,Nashik,Nashik / North Maharashtra
+152,"Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",pradnya-niketan-education-societys-nagesh-karajagi-orchid-college-of-engineering--technology-solapur,Solapur,Solapur,Pune Region
+153,"S.D.N.C.R.E.S'S.Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara",s-d-n-c-r-e-ss-late-narayandas-bhawandas-chhabada-institute-of-engineering--technology-satara,Satara,Satara,Pune Region
+154,"Ankush Shikshan Sanstha's G. H. Raisoni Institute of Engineering & Technology, Nagpur",ankush-shikshan-sansthas-g-h-raisoni-institute-of-engineering--technology-nagpur,Nagpur,Nagpur,Vidarbha
+155,"New Horizon Institute of Technology & Management, Thane",new-horizon-institute-of-technology--management-thane,Thane,Thane,Mumbai Region
+156,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",m-g-m-s-college-of-engineering-and-technology-kamothe-navi-mumbai,Mumbai,Mumbai,Mumbai Region
+157,"Institute of Chemical Technology, Mumbai Marathwada off campus, Jalna",institute-of-chemical-technology-mumbai-marathwada-off-campus-jalna,Mumbai,Mumbai,Mumbai Region
+158,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",cummins-college-of-engineering-for-women-sukhali-gupchup-tal-hingna-hingna-nagpur,Nagpur,Hingna,Vidarbha
+159,"KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",kjeis-trinity-academy-of-engineering-yewalewadi-pune,Pune,Pune,Pune Region
+160,"Aditya Engineering College, Beed",aditya-engineering-college-beed,Beed,Beed,Chhatrapati Sambhajinagar (Marathwada)
+161,"Adsul's Technical Campus, Chas Dist. Ahmednagar",adsuls-technical-campus-chas-dist-ahmednagar,Ahmednagar,Ahmednagar,Nashik / North Maharashtra
+162,"PUNE VIDYARTHI GRIHAÃ¢Â€Â™S COLLEGE OF ENGINEERING & SHRIKRUSHNA S. DHAMANKAR INSTITUTE OF MANAGEMENT, NASHIK",pune-vidyarthi-grihas-college-of-engineering--shrikrushna-s-dhamankar-institute-of-management-nashik,Pune,PUNE,Pune Region
+163,"CSMSS Chh. Shahu College of Engineering, Aurangabad",csmss-chh-shahu-college-of-engineering-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+164,"Anantrao Pawar College of Engineering & Research, Pune",anantrao-pawar-college-of-engineering--research-pune,Pune,Pune,Pune Region
+165,"Konkan Gyanpeeth College of Engineering, Karjat",konkan-gyanpeeth-college-of-engineering-karjat,Raigad,Karjat,Mumbai Region
+166,"Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur",sir-shantilal-badjate-charitable-trusts-s-b-jain-institute-of-technology-management--research-nagpur,Nagpur,Nagpur,Vidarbha
+167,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",m-d-yergude-memorial-shikshan-prasarak-mandals-shri-sai-college-of-engineering--technology-badravati,Chandrapur,Bhadravati,Vidarbha
+168,"University Institute of Chemical Technology, North Maharashtra University, Jalgaon",university-institute-of-chemical-technology-north-maharashtra-university-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+169,"Dnyanshree Institute Engineering and Technology, Satara",dnyanshree-institute-engineering-and-technology-satara,Satara,Satara,Pune Region
+170,"SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar, Chandwad, (Nashik)",snjbs-late-sau-kantabai-bhavarlalji-jain-college-of-engineering-jain-gurukul-neminagar-chandwad-nashik,Nashik,Chandwad,Nashik / North Maharashtra
+171,"Universal College of Engineering, Kaman Dist. Palghar",universal-college-of-engineering-kaman-dist-palghar,Palghar,Kaman,Mumbai Region
+172,"Alard Charitable Trust's Alard College of Engineering and Management, Pune",alard-charitable-trusts-alard-college-of-engineering-and-management-pune,Pune,Pune,Pune Region
+173,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",sandip-foundations-sandip-institute-of-engineering--management-nashik,Nashik,Nashik,Nashik / North Maharashtra
+174,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",jaidev-education-society-j-d-college-of-engineering-and-management-nagpur,Nagpur,Nagpur,Vidarbha
+175,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",jawaharlal-darda-institute-of-engineering-and-technology-yavatmal,Yavatmal,Yavatmal,Vidarbha
+176,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",sant-gajanan-maharaj-college-of-engineering-gadhinglaj,Kolhapur,Gadhinglaj,Pune Region
+177,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology (i MEET), Khalapur Dist Raigad",vishwaniketans-institute-of-management-entrepreneurship-and-engineering-technology-i-meet-khalapur-dist-raigad,Raigad,Khalapur,Mumbai Region
+178,"Kavi Kulguru Institute of Technology & Science, Ramtek",kavi-kulguru-institute-of-technology--science-ramtek,Nagpur,Ramtek,Vidarbha
+179,"WATUMULL INSTITUTE OF ELECTRONICS ENGINEERING & COMPUTER TECHNOLOGY, ULHASNAGAR",watumull-institute-of-electronics-engineering--computer-technology-ulhasnagar,Thane,ULHASNAGAR,Mumbai Region
+180,"Dr.D.Y.Patil College Of Engineering & Innovation, Talegaon",dr-d-y-patil-college-of-engineering--innovation-talegaon,Maharashtra,Other,Maharashtra
+181,"Koti Vidya Charitable Trust 's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",koti-vidya-charitable-trust-s-smt-alamuri-ratnamala-institute-of-engineering-and-technology-sapgaon-tal-shahapur,Thane,Shahapur,Mumbai Region
+182,"Bharati Vidyapeeth's College of Engineering, Kolhapur",bharati-vidyapeeths-college-of-engineering-kolhapur,Kolhapur,Kolhapur,Pune Region
+183,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",shri-ambabai-talim-sansthas-sanjay-bhokare-group-of-institutes-miraj,Sangli,Miraj,Pune Region
+184,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",dr-j-j-magdum-charitable-trusts-dr-j-j-magdum-college-of-engineering-jaysingpur,Kolhapur,Jaysingpur,Pune Region
+185,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita, Sangli",loknete-hanumantrao-charitable-trusts-adarsh-institute-of-technology-and-research-centre-vita-sangli,Sangli,Vita,Pune Region
+186,"Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",gurunanak-educational-societys-gurunanak-institute-of-technology-nagpur,Nagpur,Nagpur,Vidarbha
+187,"Government College of Engineering, Ratnagiri",government-college-of-engineering-ratnagiri,Ratnagiri,Ratnagiri,Mumbai Region
+188,"JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",jmss-shri-shankarprasad-agnihotri-college-of-engineering-wardha,Wardha,Wardha,Vidarbha
+189,"Terna Public Charitable Trust's College of Engineering, Osmanabad",terna-public-charitable-trusts-college-of-engineering-osmanabad,Osmanabad (Dharashiv),Osmanabad,Chhatrapati Sambhajinagar (Marathwada)
+190,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",dr-d-y-patil-pratishthans-college-of-engineering-kolhapur,Kolhapur,Kolhapur,Pune Region
+191,"Vidya Niketan College of Engineering, Bota Sangamner",vidya-niketan-college-of-engineering-bota-sangamner,Ahmednagar,Sangamner,Nashik / North Maharashtra
+192,"D.Y.Patil Education Society's, D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur.",d-y-patil-education-societys-d-y-patil-technical-campus-faculty-of-engineering--faculty-of-management-talsande-kolhapur,Kolhapur,Kolhapur,Pune Region
+193,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",haji-jamaluddin-thim-trusts-theem-college-of-engineering-at-villege-betegaon-boisar,Palghar,Boisar,Mumbai Region
+194,"Anjuman College of Engineering & Technology, Nagpur",anjuman-college-of-engineering--technology-nagpur,Nagpur,Nagpur,Vidarbha
+195,"Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur",shriram-gram-vikas-shikshan-sanstha-vilasrao-deshmukh-college-of-engineering-and-technology-nagpur,Nagpur,Nagpur,Vidarbha
+196,"Janata Shikshan Prasarak MandalÃ¢Â€Â™s Babasaheb Naik College Of Engineering, Pusad",janata-shikshan-prasarak-mandals-babasaheb-naik-college-of-engineering-pusad,Yavatmal,Pusad,Vidarbha
+197,"Prof Ram Meghe College of Engineering and Management, Badnera",prof-ram-meghe-college-of-engineering-and-management-badnera,Amravati,Badnera,Vidarbha
+198,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",genba-sopanrao-moze-college-of-engineering-baner-balewadi-pune,Pune,Pune,Pune Region
+199,"Jaihind College Of Engineering, Kuran",jaihind-college-of-engineering-kuran,Maharashtra,Other,Maharashtra
+200,Karmayogi Institute of Technology,karmayogi-institute-of-technology,Solapur,Pandharpur,Pune Region
+201,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",vighnaharata-trusts-shivajirao-s-jondhale-college-of-engineering--technology-shahapur-asangaon-dist-thane,Thane,Shahapur,Mumbai Region
+202,"Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur",sanmarg-shikshan-sansthas-smt-radhikatai-pandav-college-of-engineering-nagpur,Nagpur,Nagpur,Vidarbha
+203,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",v-m-institute-of-engineering-and-technology-dongargaon-nagpur,Nagpur,Nagpur,Vidarbha
+204,"Rajgad Dnyanpeeth's Technical Campus, Dhangwadi, Bhor",rajgad-dnyanpeeths-technical-campus-dhangwadi-bhor,Pune,Bhor,Pune Region
+205,"Shree Ramchandra College of Engineering, Lonikand, Pune",shree-ramchandra-college-of-engineering-lonikand-pune,Pune,Pune,Pune Region
+206,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",mauli-group-of-institutions-college-of-engineering-and-technology-shegaon,Buldhana,Shegaon,Vidarbha
+207,"MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik",mets-institute-of-technology-polytechnic-bhujbal-knowledge-city-adgaon-nashik,Nashik,Nashik,Nashik / North Maharashtra
+208,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering, Dhule",shri-shivaji-vidya-prasarak-sansthas-late-bapusaheb-shivaji-rao-deore-college-of-engineering-dhule,Dhule,Dhule,Nashik / North Maharashtra
+209,"P.K. Technical Campus, Pune.",p-k-technical-campus-pune,Pune,Pune,Pune Region
+210,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",ahmednagar-jilha-maratha-vidya-prasarak-samajache-shri-chhatrapati-shivaji-maharaj-college-of-engineering-nepti,Ahmednagar,Ahmednagar,Nashik / North Maharashtra
+211,"Nanasaheb Mahadik College of Engineering, Walwa, Sangli.",nanasaheb-mahadik-college-of-engineering-walwa-sangli,Sangli,Sangli,Pune Region
+212,"Sanghavi College of Engineering, Varvandi, Nashik.",sanghavi-college-of-engineering-varvandi-nashik,Nashik,Nashik,Nashik / North Maharashtra
+213,"Gharda Foundation's Gharda Institute of Technology, Khed, Ratnagiri",gharda-foundations-gharda-institute-of-technology-khed-ratnagiri,Ratnagiri,Khed,Mumbai Region
+214,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",pravara-rural-education-societys-sir-visvesvaraya-institute-of-technology-chincholi-dist-nashik,Nashik,Nashik,Nashik / North Maharashtra
+215,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,rajiv-gandhi-college-of-engineering-research--technology-chandrapur,Chandrapur,Chandrapur,Vidarbha
+216,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",shri-hanuman-vyayam-prasarak-mandals-college-of-engineering--technology-amravati,Amravati,Amravati,Vidarbha
+217,"University Department of Chemical Technology, Aurangabad",university-department-of-chemical-technology-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+218,"Keystone School of Engineering, Pune",keystone-school-of-engineering-pune,Pune,Pune,Pune Region
+219,"Peoples Education Society's College of Engineering, Aurangabad",peoples-education-societys-college-of-engineering-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+220,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",hon-shri-babanrao-pachpute-vichardhara-trust-group-of-institutions-integrated-campus-parikrama-kashti-shrigondha,Maharashtra,Other,Maharashtra
+221,"Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur",shahajirao-patil-vikas-pratishthan-s-b-patil-college-of-engineering-vangali-tal-indapur,Pune,Indapur,Pune Region
+222,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune",samarth-group-of-institutions-bangarwadi-post-belhe-tal-junnar-dist-pune,Pune,Pune,Pune Region
+223,"S.S.P.M.'s College of Engineering, Kankavli",s-s-p-m-s-college-of-engineering-kankavli,Sindhudurg,Kankavli,Mumbai Region
+224,"Siddhant College of Engineering, A/p Sudumbare, Tal.Maval, Dist-Pune",siddhant-college-of-engineering-a-p-sudumbare-tal-maval-dist-pune,Pune,Pune,Pune Region
+225,"G H Raisoni Institute of Engineering and Business Management, Jalgaon",g-h-raisoni-institute-of-engineering-and-business-management-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+226,"Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.",maulana-mukhtar-ahmad-nadvi-technical-campus-malegaon,Washim,Malegaon,Vidarbha
+227,"Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",vidya-vikas-pratishthan-institute-of-engineering-and-technology-solapur,Solapur,Solapur,Pune Region
+228,"Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",shri-balasaheb-mane-shikshan-prasarak-mandals-ashokrao-mane-group-of-institutions,Maharashtra,Other,Maharashtra
+229,"K.D.K. College of Engineering, Nagpur",k-d-k-college-of-engineering-nagpur,Nagpur,Nagpur,Vidarbha
+230,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",p-s-g-v-p-mandals-d-n-patel-college-of-engineering-shahada-dist-nandurbar,Nandurbar,Shahada,Nashik / North Maharashtra
+231,"Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research, Akluj",sahakar-maharshee-shankarrao-mohite-patil-institute-of-technology--research-akluj,Solapur,Akluj,Pune Region
+232,"Shanti Education Society, A.G. Patil Institute of Technology, Soregaon, Solapur (North)",shanti-education-society-a-g-patil-institute-of-technology-soregaon-solapur-north,Solapur,Solapur,Pune Region
+233,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",mahatma-basaweshwar-education-societys-college-of-engineering-ambejogai,Beed,Ambejogai,Chhatrapati Sambhajinagar (Marathwada)
+234,"Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara",sanmarg-shikshan-sanstha-mandukarrao-pandav-college-of-engineering-bhandara,Bhandara,Bhandara,Vidarbha
+235,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",matoshri-college-of-engineering-and-research-centre-eklahare-nashik,Nashik,Nashik,Nashik / North Maharashtra
+236,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",chhartrapati-shivaji-maharaj-institute-of-technology-shedung-panvel,Raigad,Panvel,Mumbai Region
+237,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",shri-jaykumar-rawal-institute-of-technology-dondaicha,Dhule,Dondaicha,Nashik / North Maharashtra
+238,Navsahyadri Education Society's Group of Institutions,navsahyadri-education-societys-group-of-institutions,Pune,Naigaon,Pune Region
+239,"Bharat College of Engineering, Kanhor, Badlapur (W)",bharat-college-of-engineering-kanhor-badlapur-w,Thane,Badlapur,Mumbai Region
+240,"Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",priyadarshini-bhagwati-college-of-engineering-harpur-nagar-umred-road-nagpur,Nagpur,Nagpur,Vidarbha
+241,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",vidarbha-bahu-uddeshiya-shikshan-sansthas-tulshiramji-gaikwad-patil-college-of-engineering--technology-nagpur,Nagpur,Nagpur,Vidarbha
+242,"Hi-Tech Institute of Technology, Aurangabad",hi-tech-institute-of-technology-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+243,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",aurangabad-college-of-engineering-naygaon-savangi-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+244,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",kalyani-charitable-trust-late-gambhirrao-natuba-sapkal-college-of-engineering-anjaneri-trimbakeshwar-road-nashik,Nashik,Nashik,Nashik / North Maharashtra
+245,"Vishwatmak Jangli Maharaj Ashram Trust (Kokamthan), Atma Malik Institute Of Technology & Research",vishwatmak-jangli-maharaj-ashram-trust-kokamthan-atma-malik-institute-of-technology--research,Ahmednagar,Kopargaon,Nashik / North Maharashtra
+246,"MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",maeers-mit-college-of-railway-engineering-and-research-jamgaon-barshi,Solapur,Barshi,Pune Region
+247,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's, Anuradha Engineering College, Chikhali",paramhansa-ramkrishna-maunibaba-shikshan-santhas-anuradha-engineering-college-chikhali,Maharashtra,Other,Maharashtra
+248,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",jagadamba-education-soc-nashiks-s-n-d-college-of-engineering--reserch-babulgaon,Nashik,Nashik,Nashik / North Maharashtra
+249,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",dattakala-group-of-institutions-swami-chincholi-tal-daund-dist-pune,Pune,Pune,Pune Region
+250,"Shri Shivaji Education Society's College of Engineering and Technology, Akola",shri-shivaji-education-societys-college-of-engineering-and-technology-akola,Akola,Akola,Vidarbha
+251,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",shri-sai-shikshan-sanstha-nagpur-institute-of-technology-nagpur,Nagpur,Nagpur,Vidarbha
+252,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",leela-education-society-g-v-acharya-institute-of-engineering-and-technology-shelu-karjat,Raigad,Karjat,Mumbai Region
+253,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur",samridhi-sarwajanik-charitable-trust-jhulelal-institute-of-technology-nagpur,Nagpur,Nagpur,Vidarbha
+254,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",shree-yash-pratishthan-shreeyash-college-of-engineering-and-technology-aurangabad,Chhatrapati Sambhajinagar (Aurangabad),Aurangabad,Chhatrapati Sambhajinagar (Marathwada)
+255,"Yashoda Technical Campus, Wadhe, Satara.",yashoda-technical-campus-wadhe-satara,Satara,Satara,Pune Region
+256,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",sahyadri-valley-college-of-engineering--technology-rajuri-pune,Pune,Pune,Pune Region
+257,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",dr-a-d-shinde-college-of-engineering-tal-gadhinglaj-kolhapur,Kolhapur,Gadhinglaj,Pune Region
+258,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",padmashri-dr-v-b-kolte-college-of-engineering-malkapur-buldhana,Buldhana,Malkapur,Vidarbha
+259,"Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna",matsyodari-shikshan-sansathas-college-of-engineering-and-technology-jalna,Jalna,Jalna,Chhatrapati Sambhajinagar (Marathwada)
+260,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",brahma-valley-college-of-engineering--research-trimbakeshwar-nashik,Nashik,Nashik,Nashik / North Maharashtra
+261,"Ideal Institute of Technology, Wada, Dist.Thane",ideal-institute-of-technology-wada-dist-thane,Thane,Thane,Mumbai Region
+262,"Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara",gondia-education-societys-manoharbhai-patel-institute-of-engineering--technology-shahapur-bhandara,Thane,Shahapur,Mumbai Region
+263,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",rajiv-gandhi-college-of-engineering-at-post-karjule-hariya-tal-parner-dist-ahmednagar,Ahmednagar,Ahmednagar,Nashik / North Maharashtra
+264,"Universal College of Engineering & Research, Sasewadi",universal-college-of-engineering--research-sasewadi,Pune,Sasewadi,Pune Region
+265,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",jawahar-education-societys-institute-of-technology-management--research-nashik,Nashik,Nashik,Nashik / North Maharashtra
+266,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",k-v-n-naik-s-p-sansths-loknete-gopinathji-munde-institute-of-engineering-education--research-nashik,Nashik,Nashik,Nashik / North Maharashtra
+267,"Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",maitraya-education-society-nagarjuna-institute-of-engineering-technology--management-nagpur,Nagpur,Nagpur,Vidarbha
+268,"Bhagwant Institute of Technology, Barshi",bhagwant-institute-of-technology-barshi,Solapur,Barshi,Pune Region
+269,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",stmeis-sandipani-technical-campus-faculty-of-engineering-latur,Latur,Latur,Chhatrapati Sambhajinagar (Marathwada)
+270,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune.",suman-ramesh-tulsiani-technical-campus-faculty-of-engineering-kamshet-pune,Pune,Pune,Pune Region
+271,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,phaltan-education-societys-college-of-engineering-thakurki-tal-phaltan-dist-satara,Satara,Phaltan,Pune Region
+272,"Guru Nanak Institute of Engineering & Technology, Kalmeshwar, Nagpur",guru-nanak-institute-of-engineering--technology-kalmeshwar-nagpur,Nagpur,Nagpur,Vidarbha
+273,"Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistan' s Bramhadevdada Mane Institute of Technology, Solapur",kai-amdar-bramhadevdada-mane-shikshan--samajik-prathistan-s-bramhadevdada-mane-institute-of-technology-solapur,Solapur,Solapur,Pune Region
+274,"Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala",vidya-prasarini-sabhas-college-of-engineering--technology-lonavala,Pune,Lonavala,Pune Region
+275,"Swaminarayan Siddhanta Institute Of Technology, Nagpur",swaminarayan-siddhanta-institute-of-technology-nagpur,Nagpur,Nagpur,Vidarbha
+276,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",jagadambha-bahuuddeshiya-gramin-vikas-sansthas-jagdambha-college-of-engineering-and-technology-yavatmal,Yavatmal,Yavatmal,Vidarbha
+277,"Vision Buldhana Educational & Welfare Society 's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",vision-buldhana-educational--welfare-society-s-pankaj-laddhad-institute-of-technology--management-studies-yelgaon,Buldhana,Buldhana,Vidarbha
+278,"Nagnathappa Halge Engineering College, Parli, Beed",nagnathappa-halge-engineering-college-parli-beed,Beed,Parli,Chhatrapati Sambhajinagar (Marathwada)
+279,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,gramin-technical-and-management-campus-nanded,Nanded,NANDED,Chhatrapati Sambhajinagar (Marathwada)
+280,"Sanmati Engineering College, Sawargaon Barde, Washim",sanmati-engineering-college-sawargaon-barde-washim,Washim,Washim,Vidarbha
+281,"Bapurao Deshmukh College of Engineering, Sevagram",bapurao-deshmukh-college-of-engineering-sevagram,Wardha,Sevagram,Vidarbha
+282,"Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi (Meghe)",jai-mahakali-shikshan-sanstha-agnihotri-college-of-engineering-sindhi-meghe,Maharashtra,Other,Maharashtra
+283,Yadavrao Tasgaonkar College of Engineering & Management,yadavrao-tasgaonkar-college-of-engineering--management,Raigad,Karjat,Mumbai Region
+284,Shree Siddheshwar Women's College Of Engineering Solapur.,shree-siddheshwar-womens-college-of-engineering-solapur,Solapur,Solapur,Pune Region
+285,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",nagaon-education-societys-gangamai-college-of-engineering-nagaon-tal-dist-dhule,Dhule,Dhule,Nashik / North Maharashtra
+286,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",krushi-jivan-vikas-pratishthan-ballarpur-institute-of-technology-mouza-bamni,Chandrapur,Ballarpur,Vidarbha
+287,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",amar-seva-mandals-shree-govindrao-vanjari-college-of-engineering--technology-nagpur,Nagpur,Nagpur,Vidarbha
+288,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye, Satara.",samarth-education-trusts-arvind-gavali-college-of-engineering-panwalewadi-varye-satara,Satara,Satara,Pune Region
+289,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",vilasrao-deshmukh-foundation-group-of-institutions-latur,Latur,Latur,Chhatrapati Sambhajinagar (Marathwada)
+290,"Khandesh College Education Society's College Of Engineering And Management, Jalgaon",khandesh-college-education-societys-college-of-engineering-and-management-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+291,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",amruta-vaishnavi-education--welfare-trusts-shatabdi-institute-of-engineering--research-agaskhind-tal-sinnar,Nashik,Sinnar,Nashik / North Maharashtra
+292,"Vishwabharati Academy's College of Engineering, Ahmednagar",vishwabharati-academys-college-of-engineering-ahmednagar,Ahmednagar,Ahmednagar,Nashik / North Maharashtra
+293,"Suryodaya College of Engineering & Technology, Nagpur",suryodaya-college-of-engineering--technology-nagpur,Nagpur,Nagpur,Vidarbha
+294,"Fabtech Technical Campus College of Engineering and Research, Sangola",fabtech-technical-campus-college-of-engineering-and-research-sangola,Solapur,Sangola,Pune Region
+295,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",dr-rajendra-gode-institute-of-technology--research-amravati,Amravati,Amravati,Vidarbha
+296,"T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur",t-m-e-societys-j-t-mahajan-college-of-engineering-faizpur,Jalgaon,Faizpur,Nashik / North Maharashtra
+297,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani",marathwada-shikshan-prasarak-mandals-shri-shivaji-institute-of-engineering-and-management-studies-parbhani,Parbhani,Parbhani,Chhatrapati Sambhajinagar (Marathwada)
+298,International Centre Of Excellence In Engineering and Management (ICEEM),international-centre-of-excellence-in-engineering-and-management-iceem,Maharashtra,Other,Maharashtra
+299,"Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima",al-ameen-educational-and-medical-foundation-college-of-engineering-koregaon-bhima,Pune,Koregaon Bhima,Pune Region
+300,"Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi",abhinav-education-societys-college-of-engineering-and-technology-degree-wadwadi,Satara,Khandala,Pune Region
+301,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",jamia-institute-of-engineering-and-management-studies-akkalkuwa,Nandurbar,Akkalkuwa,Nashik / North Maharashtra
+302,"Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",shri-someshwar-shikshan-prasarak-mandal-sharadchandra-pawar-college-of-engineering--technology-someshwar-nagar,Maharashtra,Other,Maharashtra
+303,"R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha",r-v-parankar-college-of-engineering--technology-arvi-dist-wardha,Wardha,Arvi,Vidarbha
+304,"G.M.Vedak Institute of Technology, Tala, Raigad.",g-m-vedak-institute-of-technology-tala-raigad,Raigad,Raigad,Mumbai Region
+305,"Godavari Foundation's Godavari College Of Engineering, Jalgaon",godavari-foundations-godavari-college-of-engineering-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+306,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi, Nanded",matoshri-pratishans-group-of-institutions-integrated-campus-kupsarwadi-nanded,Nanded,Nanded,Chhatrapati Sambhajinagar (Marathwada)
+307,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat",saraswati-education-society-yadavrao-tasgaonkar-institute-of-engineering--technology-karjat,Raigad,Karjat,Mumbai Region
+308,"Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj",shivganga-charitable-trust-sangli-vishveshwarya-technical-campus-faculty-of-diploma-engineering-patgaon-miraj,Sangli,Sangli,Pune Region
+309,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",siddhivinayak-technical-campus-school-of-engineering--research-technology-shirasgon-nile,Amravati,Chandur Bazar,Vidarbha
+310,"Shri. Dadasaheb Gawai Charitable Trust 's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",shri-dadasaheb-gawai-charitable-trust-s-dr-smt-kamaltai-gawai-institute-of-engineering--technology-darapur-amravati,Amravati,Amravati,Vidarbha
+311,"Manav School of Engineering & Technology, Gut No. 1035 Nagpur Surat Highway, NH No. 6 Tal.Vyala, Balapur, Akola,",manav-school-of-engineering--technology-gut-no-1035-nagpur-surat-highway-nh-no-6-tal-vyala-balapur-akola,Nagpur,Nagpur,Vidarbha
+312,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",everest-education-society-group-of-institutions-integrated-campus-ohar,Chhatrapati Sambhajinagar (Aurangabad),Ohar,Chhatrapati Sambhajinagar (Marathwada)
+313,Rajendra Mane College of Engineering & Technology Ambav Deorukh,rajendra-mane-college-of-engineering--technology-ambav-deorukh,Maharashtra,Other,Maharashtra
+314,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",dilkap-research-institute-of-engineering-and-management-studies-at-mamdapur-post-neral-tal-karjat-mumbai,Mumbai,Mumbai,Mumbai Region
+315,"Indala College Of Engineering, Bapsai Tal.Kalyan",indala-college-of-engineering-bapsai-tal-kalyan,Thane,Kalyan,Mumbai Region
+316,"Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg.",metropolitan-institute-of-technology--management-sukhalwad-sindhudurg,Sindhudurg,Sindhudurg,Mumbai Region
+317,"K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",k-d-m-education-society-vidharbha-institute-of-technology-umred-road-nagpur,Nagpur,Nagpur,Vidarbha
+318,"KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",ksgbss-bharat-ratna-indira-gandhi-college-of-engineering-kegaon-solapur,Solapur,Solapur,Pune Region
+319,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",wainganga-college-of-engineering-and-management-dongargaon-nagpur,Nagpur,Nagpur,Vidarbha
+320,"Jaywant College of Engineering & Polytechnic, Kille Macchindragad Tal. Walva District- Sangali",jaywant-college-of-engineering--polytechnic-kille-macchindragad-tal-walva-district-sangali,Maharashtra,Other,Maharashtra
+321,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",b-r-harne-college-of-engineering--technology-karav-tal-ambernath,Thane,Ambernath,Mumbai Region
+322,"College of Engineering and Technology, North Maharashtra Knowledge City, Jalgaon",college-of-engineering-and-technology-north-maharashtra-knowledge-city-jalgaon,Jalgaon,Jalgaon,Nashik / North Maharashtra
+323,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",dwarka-bahu-uddeshiya-gramin-vikas-foundation-rajarshri-shahu-college-of-engineering-buldhana,Buldhana,Buldhana,Vidarbha
+324,"Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad",shree-santkrupa-shikshan-sanstha-shree-santkrupa-institute-of-engineering--technology-karad,Satara,Karad,Pune Region
+325,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",vpms-maharshi-parshuram-college-of-engineering-velneshwar-ratnagiri,Ratnagiri,Ratnagiri,Mumbai Region
+326,"Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad",adarsh-shikshan-prasarak-mandals-k-t-patil-college-of-engineering-and-technology-osmanabad,Osmanabad (Dharashiv),Osmanabad,Chhatrapati Sambhajinagar (Marathwada)
